@@ -1,0 +1,74 @@
+.w3-theme-l5 {color:#000 !important; background-color:#f0fafa !important}
+.w3-theme-l4 {color:#000 !important; background-color:#cdf0ed !important}
+.w3-theme-l3 {color:#000 !important; background-color:#9be0dc !important}
+.w3-theme-l2 {color:#000 !important; background-color:#69d1ca !important}
+.w3-theme-l1 {color:#fff !important; background-color:#3abeb6 !important}
+.w3-theme-d1 {color:#fff !important; background-color:#277e79 !important}
+.w3-theme-d2 {color:#fff !important; background-color:#23706b !important}
+.w3-theme-d3 {color:#fff !important; background-color:#1e625e !important}
+.w3-theme-d4 {color:#fff !important; background-color:#1a5450 !important}
+.w3-theme-d5 {color:#fff !important; background-color:#164643 !important}
+
+.w3-theme-light {color:#000 !important; background-color:#f0fafa !important}
+.w3-theme-dark {color:#fff !important; background-color:#164643 !important}
+.w3-theme-action {color:#fff !important; background-color:#164643 !important}
+
+.w3-theme {color:#fff !important; background-color:#2b8c86 !important}
+.w3-text-theme {color:#2b8c86 !important}
+.w3-border-theme {border-color:#2b8c86 !important}
+
+.w3-hover-theme:hover {color:#fff !important; background-color:#2b8c86 !important}
+.w3-hover-text-theme:hover {color:#2b8c86 !important}
+.w3-hover-border-theme:hover {border-color:#2b8c86 !important}
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif;}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("files/circles.jpg");
+  min-height: 75%;
+}
+.bgimg-2 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("files/DeltaX_2.png");
+  min-height: 100%;
+}
+
+
+.cslabs {
+  color: #2b8c86;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+  color: #2b8c86;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
